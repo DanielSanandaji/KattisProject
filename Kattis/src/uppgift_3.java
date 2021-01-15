@@ -10,7 +10,7 @@ public class uppgift_3 {
 	int B;
 
 	public void run() {
-		
+		//JUST ADD SOME COMMENT
 		Scanner scan = new Scanner(System.in);
 		String result = "";
 		int num = scan.nextInt();
